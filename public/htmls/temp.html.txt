@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CMRcet</title>
+<link rel="shortcut icon" href="img/favicon.ioc">
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<script src="js/site.js"></script>
+<h1>THORAM JAHNAVI ANUHYA</h1>
+<p>17H51A05B7</p>
+
+</body>
+</html>
